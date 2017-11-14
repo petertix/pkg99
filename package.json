@@ -1,0 +1,19 @@
+{
+  "name": "pkg99",
+  "version": "1.0.0",
+  "description": "A test Package.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/petertix/pkg99.git"
+  },
+  "author": "Peter Robinson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/petertix/pkg99/issues"
+  },
+  "homepage": "https://github.com/petertix/pkg99#readme"
+}
